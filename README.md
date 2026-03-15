@@ -396,5 +396,3 @@ plt.show()
 Thus , all te data visualization techniques of matplotlib has been implemented successfully.
 
 
-# Result:
- Include your result here
